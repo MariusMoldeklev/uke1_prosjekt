@@ -86,6 +86,8 @@ input {
     margin-top: 10px;
     background-color: #d70f0f;
     color: white;
+    border-color: white;
+   
 }
 
 input::placeholder {
