@@ -1,0 +1,77 @@
+/* Reset some default styling and add a basic style to the body */
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Arial', sans-serif;
+}
+
+/* Style the header and navbar */
+header {
+    border-radius: 2%;
+    margin: 50px;
+    background-color: #d70f0f;
+    color: #fff;
+    padding: 10px;
+}
+
+.navbar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+/* Style the logo */
+img {
+    max-width: 100%;
+    height: auto;
+    margin-right: 20px;
+}
+
+/* Style the navigation menu */
+ul {
+    list-style: none;
+    display: flex;
+}
+
+li {
+    margin-right: 20px;
+}
+
+li:hover {
+    background-color: #ad5b5b;
+}
+
+a {
+    text-decoration: none;
+    color: #fff;
+    display: block;
+    padding: 10px;
+    position: relative;
+}
+
+/* Style the dropdown menus */
+ul ul {
+    display: none;
+    position: absolute;
+    background-color: #333;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    z-index: 1;
+    margin: 0px;
+    text-align: center;
+    margin: 0px 20px;
+    padding: 0px;
+}
+
+ul ul li {
+margin: 0px;
+}
+
+ul li:hover > ul {
+    display: block;
+}
+
+/* Add some styling for the dropdown indicators */
+a b {
+    margin-left: 0px;
+    text-align: center;
+}
