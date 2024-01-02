@@ -75,3 +75,25 @@ a b {
     margin-left: 0px;
     text-align: center;
 }
+
+.footer-div {
+    display: flex;
+    justify-content: space-between;
+    background-color: #d70f0f;
+    color: white;
+}
+input {
+    margin-top: 10px;
+    background-color: #d70f0f;
+    color: white;
+}
+
+input::placeholder {
+    color: white;
+}
+button {
+    border-radius: 25%;
+    color: #d70f0f;
+    background-color: white;
+    border-style: none;
+}
