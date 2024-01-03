@@ -34,16 +34,20 @@ body {
     max-width: 100%;
     position: relative;
     text-align: center;
-}
-
-.logo {
-    margin-left: 30px;
+    background: linear-gradient(to bottom right, #d70f0f, #808080, #fff);
 }
 .img {
+    /* old specs
     max-width: 100%;
-    height: auto;
+    heigth: auto; */
+    width: 1350px;
+    height: 600px;
     display: block;
     margin: 0 auto;
+}
+    
+.logo {
+    margin-left: 30px;
     
 }
 
