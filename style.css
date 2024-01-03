@@ -1,5 +1,6 @@
 /* Reset some default styling and add a basic style to the body */
 body {
+    background: linear-gradient(to right, #808080, #dddddd, #ffffff);
     margin: 0;
     padding: 0;
     font-family: 'Arial', sans-serif;
@@ -29,6 +30,7 @@ body {
 /* Style the logo */
 
 .img-container{
+    margin: 0;
     max-width: 100%;
     position: relative;
     text-align: center;
