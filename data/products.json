@@ -18,14 +18,14 @@
         "title": "Xbox 360",
         "price": 499,
         "description": "tempDescription",
-        "image": "data/images/xbox 360.jpg"
+        "image": "data/images/xbox360.jpeg"
     },
     {
         "id": "segagenesis",
         "title": "Sega Genesis",
         "price": 499,
         "description": "tempDescription",
-        "image": "data/images/Sega-Mega-Drive-JP-Mk1-Console-Set.jpg"
+        "image": "data/images/Sega-Mega-Drive-EU-Mk1-wController-FL.jpg"
     },
     {
         "id": "psp",
@@ -102,13 +102,13 @@
         "title": "onikuma",
         "price": 500,
         "description": "cute",
-        "images": "data/images/onikuma"
+        "images": "data/images/onikuma.webp"
     },
     {
         "id": "controller",
-        "title": "joker_controller",
+        "title": "joker controller",
         "price": 420,
         "description": "tempDescription",
-        "images": "data/images/joker ps5.webp"
+        "images": "data/images/jokerps5.webp"
     }
 ]
