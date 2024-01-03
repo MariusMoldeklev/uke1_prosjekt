@@ -37,11 +37,11 @@ body {
     background: linear-gradient(to bottom right, #d70f0f, #808080, #fff);
 }
 .img {
-    /* old specs
+    /* old specs */
     max-width: 100%;
-    heigth: auto; */
-    width: 1350px;
-    height: 600px;
+    height: auto;
+    /* width: 1350px;
+    height: 600px; */
     display: block;
     margin: 0 auto;
 }
