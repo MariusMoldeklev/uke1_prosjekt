@@ -29,6 +29,7 @@ body {
 /* Style the logo */
 
 .img-container{
+    max-width: 100%;
     position: relative;
     text-align: center;
 }
@@ -37,8 +38,10 @@ body {
     margin-left: 30px;
 }
 .img {
-    width: 100vw;
+    max-width: 100%;
     height: auto;
+    display: block;
+    margin: 0 auto;
     
 }
 
