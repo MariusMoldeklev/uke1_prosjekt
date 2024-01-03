@@ -121,5 +121,68 @@ button {
     color: white;
     top: 35%;
     left: 40%;
-    text-shadow: 0 0 4px #d70f0f;
+     text-shadow: 0 0 4px #d70f0f;
 }
+
+
+/***********************/
+#productListLarge {
+    display: flex;              
+    flex-wrap: wrap;            
+    justify-content: center;    
+    list-style-type: none;      
+    padding: 0;                 
+    margin: 0;                  
+}
+
+.product-item-large {
+    width: 33%;                 
+    box-sizing: border-box;     
+    padding: 5px;              
+    margin: 5px;               
+    display: flex;              
+    flex-direction: column;     
+    align-items: center;        
+}
+
+.product-image {
+    width: 100%;       
+    height: auto;      
+    display: block;
+    margin: 0;
+}
+
+.product-details {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.product-title-description {
+    /*add styling*/
+}
+
+.product-price {
+    /*add styling*/
+}
+
+#productListSmall {
+    display: flex;              
+    flex-wrap: wrap;            
+    justify-content: center;    
+    list-style-type: none;      
+    padding: 0;                 
+    margin: 0;                  
+}
+
+.product-item-small {
+    width: 25%;
+    box-sizing: border-box;     
+    padding: 20px; /* Smaller padding for smaller items */
+    margin: 20px; /* Smaller margin for smaller items */
+    display: flex;              
+    flex-direction: column;     
+    align-items: center;        
+}
+/***********************/

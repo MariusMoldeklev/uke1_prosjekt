@@ -6,6 +6,7 @@
         <title>Document</title>
         <link rel="stylesheet" href="style.css">
         <script src="script.js"> defer</script>
+        <script src="index.js" defer></script>
     </head>
     <body>
         <header>
@@ -18,19 +19,9 @@
                     <li><a href="">Comming soon</a></li>
                     <li><a href="">Shop</a></li>
                     <li><a href="">Products<b>▼</b></a>
-                        <ul>
-                            <li><a href="">Comodore64</a></li>
-                            <li><a href="">PS5</a></li>
-                            <li><a href="">X-Box 360</a></li>
-                            <li><a href="">Sega Mega Drive</a></li>
-                            <li><a href="">Playstation Portable</a></li>
-                            <li><a href="">PSX Console</a></li>
-                            <li><a href=""> Atari 1</a></li>
-                            <li><a href="">NES-Console</a></li>
-                            <li><a href="">Nintendo 64</a></li>
-                            <li><a href="">Nintendo DS</a></li>
-                            <li><a href="">Wii</a></li>
-                            <li><a href="">Steam Deck</a></li>
+                        <ul id="navProductList">
+                            <!-- Js creates shop items with this template:
+                            <li><a href="">Product Name</a></li> -->
                         </ul></li>
                         <li><a href="">About Us</a></li>
                         <li><a href="#">USD $<b>▼</b></a>
@@ -51,6 +42,28 @@
                             <h3>Discover the prefect console for you</h3>
                         </div>
                     </div>
+                    <section>
+                        <ul id="productListLarge">
+                            <!-- Product items will be created by JavaScript 
+                            Template:
+                            <li class="product-item-large">
+                                <img src="${product.image}" alt="${product.title}" class="product-image">
+                                <div class="product-details">
+                                    <div class="product-title-description">
+                                        <h3 class="product-title">${product.title}</h3>
+                                        <p class="product-description">${product.description}</p>
+                                    </div>
+                                    <p class="product-price">$${product.price}</p>
+                                </div>
+                            <li>
+                            -->
+                        </ul>
+                    </section>
+                    <section>
+                        <ul id="productListSmall">
+                            <!-- Smaller product items will be created by JavaScript -->
+                        </ul>
+                    </section>
                     
                     
                 </main>
