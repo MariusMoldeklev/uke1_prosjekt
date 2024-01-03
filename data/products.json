@@ -1,0 +1,86 @@
+[
+    {
+        "id": "ps5",
+        "title": "Playstation 5",
+        "price": 499,
+        "description": "tempDescription",
+        "image": "data/images/ps5.jpg"
+    },
+    {
+        "id": "commodore64",
+        "title": "Commodore 64",
+        "price": 499,
+        "description": "tempDescription",
+        "image": "data/images/ps5.jpg"
+    },
+    {
+        "id": "xbox360",
+        "title": "Xbox 360",
+        "price": 499,
+        "description": "tempDescription",
+        "image": "data/images/ps5.jpg"
+    },
+    {
+        "id": "segagenesis",
+        "title": "Sega Genesis",
+        "price": 499,
+        "description": "tempDescription",
+        "image": "data/images/ps5.jpg"
+    },
+    {
+        "id": "psp",
+        "title": "Playstation Portable",
+        "price": 499,
+        "description": "tempDescription",
+        "image": "data/images/ps5.jpg"
+    },
+    {
+        "id": "psx",
+        "title": "Playstation X",
+        "price": 499,
+        "description": "tempDescription",
+        "image": "data/images/ps5.jpg"
+    },
+    {
+        "id": "atari2600",
+        "title": "Atari 2600",
+        "price": 499,
+        "description": "tempDescription",
+        "image": "data/images/ps5.jpg"
+    },
+    {
+        "id": "nes",
+        "title": "NES",
+        "price": 499,
+        "description": "tempDescription",
+        "image": "data/images/ps5.jpg"
+    },
+    {
+        "id": "n64",
+        "title": "Nintendo 64",
+        "price": 499,
+        "description": "tempDescription",
+        "image": "data/images/ps5.jpg"
+    },
+    {
+        "id": "nds",
+        "title": "Nintendo DS",
+        "price": 499,
+        "description": "tempDescription",
+        "image": "data/images/ps5.jpg"
+    },
+    {
+        "id": "wii",
+        "title": "Wii",
+        "price": 499,
+        "description": "tempDescription",
+        "image": "data/images/ps5.jpg"
+    },
+    {
+        "id": "steamdeck",
+        "title": "Steam Deck",
+        "price": 499,
+        "description": "tempDescription",
+        "image": "data/images/ps5.jpg"
+    }
+]
