@@ -11,76 +11,104 @@
         "title": "Commodore 64",
         "price": 499,
         "description": "tempDescription",
-        "image": "data/images/ps5.jpg"
+        "image": "data/images/comodore64.webp"
     },
     {
         "id": "xbox360",
         "title": "Xbox 360",
         "price": 499,
         "description": "tempDescription",
-        "image": "data/images/ps5.jpg"
+        "image": "data/images/xbox 360.jpg"
     },
     {
         "id": "segagenesis",
         "title": "Sega Genesis",
         "price": 499,
         "description": "tempDescription",
-        "image": "data/images/ps5.jpg"
+        "image": "data/images/Sega-Mega-Drive-JP-Mk1-Console-Set.jpg"
     },
     {
         "id": "psp",
         "title": "Playstation Portable",
         "price": 499,
         "description": "tempDescription",
-        "image": "data/images/ps5.jpg"
+        "image": "data/images/playstation portable or psp.jpg"
     },
     {
         "id": "psx",
         "title": "Playstation X",
         "price": 499,
         "description": "tempDescription",
-        "image": "data/images/ps5.jpg"
+        "image": "data/images/PSX-Console-wController.jpg"
     },
     {
         "id": "atari2600",
         "title": "Atari 2600",
         "price": 499,
         "description": "tempDescription",
-        "image": "data/images/ps5.jpg"
+        "image": "data/images/Atari.png"
     },
     {
         "id": "nes",
         "title": "NES",
         "price": 499,
         "description": "tempDescription",
-        "image": "data/images/ps5.jpg"
+        "image": "data/images/NES-Console-Set.jpg"
     },
     {
         "id": "n64",
         "title": "Nintendo 64",
         "price": 499,
         "description": "tempDescription",
-        "image": "data/images/ps5.jpg"
+        "image": "data/images/nintendo 64.jpg"
     },
     {
         "id": "nds",
         "title": "Nintendo DS",
         "price": 499,
         "description": "tempDescription",
-        "image": "data/images/ps5.jpg"
+        "image": "data/images/nintendo ds.jpg"
     },
     {
         "id": "wii",
         "title": "Wii",
         "price": 499,
         "description": "tempDescription",
-        "image": "data/images/ps5.jpg"
+        "image": "data/images/Wii.jpg"
     },
     {
         "id": "steamdeck",
         "title": "Steam Deck",
         "price": 499,
         "description": "tempDescription",
-        "image": "data/images/ps5.jpg"
+        "image": "data/images/steam deck.webp"
+    },
+    {
+        "id": "Deltaco",
+        "title": "deltaco",
+        "price": 499,
+        "description": "tempDescription",
+        "image": "data/images/Deltaco.png"
+    },
+    {
+        "id": "logitech",
+        "title": "logitech",
+        "price": 499,
+        "description": "tempDescription",
+        "image":"data/images/logitech.jpg"
+    },
+    {
+        "id": "onikuma",
+        "title": "onikuma",
+        "price": 500,
+        "description": "cute",
+        "images": "data/images/onikuma"
+    },
+    {
+        "id": "controller",
+        "title": "joker_controller",
+        "price": 420,
+        "description": "tempDescription",
+        "images": "data/images/joker ps5.webp"
     }
 ]
