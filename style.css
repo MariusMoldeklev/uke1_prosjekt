@@ -135,6 +135,7 @@ button {
 
 
 /***********************/
+<<<<<<< HEAD
 .center-container {
     display: flex;
     justify-content: center;
@@ -165,6 +166,30 @@ button {
 .product-image {
     width: 100%;
     height: 370px;
+=======
+#productListLarge {
+    display: flex;              
+    flex-wrap: wrap;            
+    justify-content: center;    
+    list-style-type: none;      
+    padding: 0;                 
+    margin: 0;                  
+}
+
+.product-item-large {
+    width: 33%;                 
+    box-sizing: border-box;     
+    padding: 5px;              
+    margin: 5px;               
+    display: flex;              
+    flex-direction: column;     
+    align-items: center;        
+}
+
+.product-image {
+    width: 100%;     
+    height: auto;      
+>>>>>>> origin/main
     display: block;
     margin: 0;
 }
@@ -185,16 +210,26 @@ button {
 }
 
 #productListSmall {
+<<<<<<< HEAD
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
     list-style-type: none;
     padding: 0;
     margin: 0;
+=======
+    display: flex;              
+    flex-wrap: wrap;            
+    justify-content: center;    
+    list-style-type: none;      
+    padding: 0;                 
+    margin: 0;                  
+>>>>>>> origin/main
 }
 
 .product-item-small {
     width: 25%;
+<<<<<<< HEAD
     box-sizing: border-box;
     padding: 20px;
     margin: 20px;
@@ -203,3 +238,13 @@ button {
     align-items: center;
 }
 /***********************/
+=======
+    box-sizing: border-box;     
+    padding: 20px; /* Smaller padding for smaller items */
+    margin: 20px; /* Smaller margin for smaller items */
+    display: flex;              
+    flex-direction: column;     
+    align-items: center;        
+}
+/***********************/
+>>>>>>> origin/main

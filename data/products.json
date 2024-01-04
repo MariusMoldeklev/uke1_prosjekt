@@ -3,7 +3,10 @@
         "id": "ps5",
         "title": "Playstation 5",
         "price": 499,
+<<<<<<< HEAD
         "type": "console",
+=======
+>>>>>>> origin/main
         "description": "tempDescription",
         "image": "data/images/ps5.jpg"
     },
@@ -11,86 +14,138 @@
         "id": "commodore64",
         "title": "Commodore 64",
         "price": 499,
+<<<<<<< HEAD
         "type": "console",
         "description": "tempDescription",
         "image": "data/images/commodore64.webp"
+=======
+        "description": "tempDescription",
+        "image": "data/images/comodore64.webp"
+>>>>>>> origin/main
     },
     {
         "id": "xbox360",
         "title": "Xbox 360",
         "price": 499,
+<<<<<<< HEAD
         "type": "console",
+=======
+>>>>>>> origin/main
         "description": "tempDescription",
         "image": "data/images/xbox360.jpeg"
     },
     {
+<<<<<<< HEAD
         "id": "segaGenesis",
         "title": "Sega Genesis",
         "price": 499,
         "type": "console",
         "description": "tempDescription",
         "image": "data/images/segaGenesis.jpg"
+=======
+        "id": "segagenesis",
+        "title": "Sega Genesis",
+        "price": 499,
+        "description": "tempDescription",
+        "image": "data/images/Sega-Mega-Drive-EU-Mk1-wController-FL.jpg"
+>>>>>>> origin/main
     },
     {
         "id": "psp",
         "title": "Playstation Portable",
         "price": 499,
+<<<<<<< HEAD
         "type": "console",
         "description": "tempDescription",
         "image": "data/images/psp.jpg"
+=======
+        "description": "tempDescription",
+        "image": "data/images/playstation portable or psp.jpg"
+>>>>>>> origin/main
     },
     {
         "id": "psx",
         "title": "Playstation X",
         "price": 499,
+<<<<<<< HEAD
         "type": "console",
         "description": "tempDescription",
         "image": "data/images/psx.jpg"
+=======
+        "description": "tempDescription",
+        "image": "data/images/PSX-Console-wController.jpg"
+>>>>>>> origin/main
     },
     {
         "id": "atari2600",
         "title": "Atari 2600",
         "price": 499,
+<<<<<<< HEAD
         "type": "console",
         "description": "tempDescription",
         "image": "data/images/atari.png"
+=======
+        "description": "tempDescription",
+        "image": "data/images/Atari.png"
+>>>>>>> origin/main
     },
     {
         "id": "nes",
         "title": "NES",
         "price": 499,
+<<<<<<< HEAD
         "type": "console",
         "description": "tempDescription",
         "image": "data/images/nes.jpg"
+=======
+        "description": "tempDescription",
+        "image": "data/images/NES-Console-Set.jpg"
+>>>>>>> origin/main
     },
     {
         "id": "n64",
         "title": "Nintendo 64",
         "price": 499,
+<<<<<<< HEAD
         "type": "console",
         "description": "tempDescription",
         "image": "data/images/nintendo64.jpg"
+=======
+        "description": "tempDescription",
+        "image": "data/images/nintendo 64.jpg"
+>>>>>>> origin/main
     },
     {
         "id": "nds",
         "title": "Nintendo DS",
         "price": 499,
+<<<<<<< HEAD
         "type": "console",
         "description": "tempDescription",
         "image": "data/images/nintendods.jpg"
+=======
+        "description": "tempDescription",
+        "image": "data/images/nintendo ds.jpg"
+>>>>>>> origin/main
     },
     {
         "id": "wii",
         "title": "Wii",
         "price": 499,
+<<<<<<< HEAD
         "type": "console",
         "description": "tempDescription",
         "image": "data/images/wii.jpg"
+=======
+        "description": "tempDescription",
+        "image": "data/images/Wii.jpg"
+>>>>>>> origin/main
     },
     {
         "id": "steamdeck",
         "title": "Steam Deck",
         "price": 499,
+<<<<<<< HEAD
         "type": "console",
         "description": "tempDescription",
         "image": "data/images/steamdeck.webp"
@@ -126,5 +181,37 @@
         "type": "accessory",
         "description": "tempDescription",
         "image": "data/images/switchProController.jpg"
+=======
+        "description": "tempDescription",
+        "image": "data/images/steam deck.webp"
+    },
+    {
+        "id": "Deltaco",
+        "title": "deltaco",
+        "price": 499,
+        "description": "tempDescription",
+        "image": "data/images/Deltaco.png"
+    },
+    {
+        "id": "logitech",
+        "title": "logitech",
+        "price": 499,
+        "description": "tempDescription",
+        "image":"data/images/logitech.jpg"
+    },
+    {
+        "id": "onikuma",
+        "title": "onikuma",
+        "price": 500,
+        "description": "cute",
+        "images": "data/images/onikuma.webp"
+    },
+    {
+        "id": "controller",
+        "title": "joker controller",
+        "price": 420,
+        "description": "tempDescription",
+        "images": "data/images/jokerps5.webp"
+>>>>>>> origin/main
     }
 ]
